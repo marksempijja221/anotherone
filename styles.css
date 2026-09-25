@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+    color: red;
+    background-color: rgb(106, 151, 17);
+    padding: 9px;
+    font-family: cursive;
+    border: 2px solid rgb(57, 57, 218);
+    border-radius: 11px;
+}
+a:hover{
+     background-color: rgba(149, 83, 224, 0.384);
+     color: rgb(90, 5, 5);
+}
+.subhead:hover{
+color: red;
+text-decoration: double;
+}
+p:hover{
+    background-color: beige;
+    color: red;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 20px;
+}
